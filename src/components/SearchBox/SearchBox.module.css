@@ -1,0 +1,21 @@
+.searchBox {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  gap: 5px;
+}
+
+.searchLabel {
+  display: flex;
+}
+
+.search {
+  display: flex;
+  padding: 2px 20px 2px 8px;
+  font-size: 18px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: black;
+}

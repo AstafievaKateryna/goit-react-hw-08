@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+}
+
+.link {
+  color: aqua;
+  text-decoration: none;
+}

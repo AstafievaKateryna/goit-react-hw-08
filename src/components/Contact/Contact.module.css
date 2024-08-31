@@ -1,0 +1,28 @@
+.contact {
+    background-color: #fff;
+    color: black;
+    border: 1px #090808;
+    display: flex;
+    padding: 10px;
+    gap: 40px;
+  }
+  
+  .contactInfo {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+  }
+  
+  .icon {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .contactValue {
+    justify-content: start;
+  }
+  
+  .onDelete {
+    padding: 5px 20px;
+  }
